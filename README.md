@@ -1,21 +1,28 @@
-# Mental Math Trainer
+# 🧠 Mental Math Trainer
 
-A simple, fun terminal-based Python game to practice speed and accuracy with arithmetic problems.
+A **simple, fun terminal-based Python game** to practice speed and accuracy with arithmetic problems.  
+Perfect as a warm-up for game jams, classrooms, and beginner coding workshops.
 
-## What it is
-Mental Math Trainer generates quick math challenges (addition, subtraction, multiplication, integer division),
-tracks accuracy, response time, score, and streaks. Built to be beginner-friendly and easy to extend.
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-## Features
-- Easy / Medium / Hard difficulty levels
-- Time-based scoring and streak bonuses
-- Configurable number of questions
-- Save results to a text file
+---
+
+## 🚀 Features
+- Easy / Medium / Hard difficulty levels  
+- Time-based scoring and streak bonuses  
+- Configurable number of questions per session  
+- Save results to a local text file  
 - No external libraries required — pure Python 3
 
-## How to run
-1. Make sure you have Python 3 installed.
-2. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/mental-math-trainer.git
-   cd mental-math-trainer
+---
+
+## ▶️ Quick start
+
+1. Make sure you have **Python 3** installed (run `python3 --version`).  
+2. Clone the repo and run the game:
+
+```bash
+git clone https://github.com/Livishuiq/mental-math-trainer.git
+cd mental-math-trainer
+python3 main.py
